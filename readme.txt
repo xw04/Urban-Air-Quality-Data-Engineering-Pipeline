@@ -1,12 +1,3 @@
-﻿===========================================================
-BMDS2013 Data Engineering Assignment – readme.txt
-===========================================================
-
-
-Team Reference: S3G3-4
-Submission Date: 29 August 2025
-
-
 -----------------------------------------------------------
 1. Project Title:
 -----------------------------------------------------------
@@ -16,7 +7,7 @@ Real-Time Analysis of Air Quality Data for Urban Health Monitoring (SDG 3 – Go
 -----------------------------------------------------------
 2. Project Folder Structure: 
 -----------------------------------------------------------
-/S3G3-4_Code/
+/Code/
 │
 ├── Task1StreamRawData/
 │   ├── consumer.py
